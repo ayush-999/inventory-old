@@ -1,0 +1,25 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+.table_img {
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
+.error-wrapper {
+    padding: 7px 15px;
+    width: 100%;
+    border: 2px dashed #AD2325;
+    background: #F5DCDD;
+    text-align: center;
+    color: #AD2325;
+    margin-top: 5px;
+    border-radius: 3px;
+}
